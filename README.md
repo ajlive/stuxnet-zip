@@ -85,9 +85,14 @@ stuxnet.zip has adopted the Rule of Saint Benedict as its code of conduct, inspi
 
 ### Development
 
-stuxnet.php sits on a LAP stack.
+stuxnet.php sits on a LAP stack. Don't talk to me about Rust or whatever: if sitting on a LAP was good enough for your daddy, it's good enough for you. Remember the rule: "Respect your seniors."
 
-It also requires zip to do
+Requirements:
+
+1. Linux
+2. Apache
+3. PHP, the greatest programming language ever created. Remember the rule: "Be not a hater." You laugh at PHP but I guarantee Larry Wall is smarter than you.
+4. Zip, because you need to:
 
 ```
 zip -j stuxnet.zip thankyou.txt
